@@ -1,5 +1,5 @@
 # soduku_solver
-In this project create porject which takes the input of 
+In this project  which takes the input of 
 sudoku as matrix and return the solve sudoku as the matrix.
 <br>
 key feature:
